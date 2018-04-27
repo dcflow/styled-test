@@ -21,6 +21,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "babel-register": "^6.26.0",
     "cross-env": "^5.1.4",
+    "electron": "^1.8.6",
     "react-hot-loader": "^4.0.0",
     "webpack": "^4.6.0",
     "webpack-cli": "^2.0.15",
